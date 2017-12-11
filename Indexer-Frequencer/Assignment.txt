@@ -1,0 +1,7 @@
+For this assignment, you are free to reference code from online (not direct copy).  
+Your program should produce a frequency-based inverted index, 
+in the same format as the one in slide #9 of Chap 5 ppt, in a plain text file. 
+
+Input: 500 downloaded pages from Assignment 2.
+
+Output: an inverted index stored in a plain text file.
